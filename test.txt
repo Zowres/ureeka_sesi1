@@ -1,4 +1,4 @@
-Github command 2
+Github command 
 
 - Git clone : buat kloning project
 - git push : buat ngepush project local ke web GH
@@ -9,3 +9,18 @@ Github command 2
 - git checkout -b [nama_branch] : checkout buat bikin branch baru
 - git log: buat tau riwayat commit
 - git rm: ini buat ngeremove sebuah file yang ada di github
+
+Urutan command:
+1. Git clone 
+2. git checkout -b [branch] : main > dev > Login,Authen,CRUD, DLL 
+    - git checkout [branch]
+    - git branch 
+3. git status 
+4. git add .
+5. git status 
+6. git commit -m 'add/fix/update/remove : add teksboks login'
+7. git status 
+8. git push origin Login
+9. git status 
+10. git add . , commit 
+11. git push main/dev 
