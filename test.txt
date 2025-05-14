@@ -1,1 +1,8 @@
-halo guys
+<i class="fa fa-github
+- Git clone 
+- git push 
+- git pull 
+- git merge 
+- git add 
+- git commit 
+- git checkout -b [nama_branch] 
