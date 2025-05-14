@@ -1,8 +1,11 @@
-<i class="fa fa-github
-- Git clone 
-- git push 
-- git pull 
-- git merge 
-- git add 
-- git commit 
-- git checkout -b [nama_branch] 
+Github command 2
+
+- Git clone : buat kloning project
+- git push : buat ngepush project local ke web GH
+- git pull : buat ngambil kodingan yang ada dari branch ato main jg bisa
+- git merge : menggabungkan kodingan branchin A dan B
+- git add : kodingan yang diubah biasanya di ubah dlu kemudian di add
+- git commit : commit buat ngasih message aja sih
+- git checkout -b [nama_branch] : checkout buat bikin branch baru
+- git log: buat tau riwayat commit
+- git rm: ini buat ngeremove sebuah file yang ada di github
